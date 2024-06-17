@@ -1,4 +1,4 @@
-In conclusion, the analysis of the Facebook dataset has provided valuable 
+The analysis of the Facebook dataset has provided valuable 
 insights into various aspects of user behavior and interactions on the 
 platform.
 While this analysis provides valuable insights, it is crucial to acknowledge 
